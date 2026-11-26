@@ -1,0 +1,8 @@
+{
+    "type": "item",
+    "identifier": "common:chili",
+    "items": [
+        "kaleidoscope_cookery:red_chili",
+        "kaleidoscope_cookery:green_chili"
+    ]
+}

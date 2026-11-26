@@ -1,0 +1,12 @@
+{
+    "type": "item",
+    "identifier": "common:egg",
+    "items": [
+        "minecraft:egg",
+        "minecraft:blue_egg",
+        "minecraft:brown_egg",
+        "minecraft:turtle_egg",
+        "minecraft:sniffer_egg",
+        "kaleidoscope_cookery:fried_egg"
+    ]
+}

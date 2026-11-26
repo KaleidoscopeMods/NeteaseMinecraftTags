@@ -1,0 +1,12 @@
+{
+    "type": "item",
+    "identifier": "common:fish",
+    "items": [
+        "minecraft:cod",
+        "minecraft:salmon",
+        "minecraft:cooked_cod",
+        "minecraft:cooked_salmon",
+        "minecraft:tropical_fish",
+        "kaleidoscope_cookery:sashimi"
+    ]
+}

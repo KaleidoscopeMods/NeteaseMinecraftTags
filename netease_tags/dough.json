@@ -1,0 +1,7 @@
+{
+    "type": "item",
+    "identifier": "common:dough",
+    "items": [
+        "kaleidoscope_cookery:raw_dough"
+    ]
+}

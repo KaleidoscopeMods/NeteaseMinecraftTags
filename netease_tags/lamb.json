@@ -1,0 +1,10 @@
+{
+    "type": "item",
+    "identifier": "common:lamb",
+    "items": [
+        "minecraft:mutton",
+        "minecraft:cooked_mutton",
+        "kaleidoscope_cookery:raw_lamb_chops",
+        "kaleidoscope_cookery:cooked_lamb_chops"
+    ]
+}

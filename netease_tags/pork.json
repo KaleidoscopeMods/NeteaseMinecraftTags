@@ -1,0 +1,10 @@
+{
+    "type": "item",
+    "identifier": "common:pork",
+    "items": [
+        "minecraft:porkchop",
+        "minecraft:cooked_porkchop",
+        "kaleidoscope_cookery:raw_pork_belly",
+        "kaleidoscope_cookery:cooked_pork_belly"
+    ]
+}

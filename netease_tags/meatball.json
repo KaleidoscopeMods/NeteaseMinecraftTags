@@ -1,0 +1,8 @@
+{
+    "type": "item",
+    "identifier": "common:meatball",
+    "items": [
+        "kaleidoscope_cookery:raw_meatball",
+        "kaleidoscope_cookery:cooked_meatball"
+    ]
+}

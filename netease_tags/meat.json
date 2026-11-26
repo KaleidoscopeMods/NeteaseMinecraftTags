@@ -1,0 +1,12 @@
+{
+    "type": "item",
+    "identifier": "common:meat",
+    "items": [
+        "#common:beef",
+        "#common:chicken",
+        "#common:lamb",
+        "#common:pork",
+        "minecraft:rabbit",
+        "kaleidoscope_cookery:raw_cut_small_meats"
+    ]
+}

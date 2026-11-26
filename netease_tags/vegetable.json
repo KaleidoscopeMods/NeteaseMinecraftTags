@@ -1,0 +1,12 @@
+{
+  "type": "item",
+  "identifier": "common:vegetable",
+  "items": [
+    "#common:tomato",
+    "#common:lettuce",
+    "#common:chili",
+    "minecraft:carrot",
+    "minecraft:potato",
+    "minecraft:beetroot"
+  ]
+}
